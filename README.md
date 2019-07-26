@@ -28,3 +28,5 @@ vai abrir a tela Home onde tem que clica no search view assim digita primeira le
 Tentei fazer o maximo para terminar o teste talvez fica faltando alguma coisa, e tambem utilizei o padrao MVC uso esse padrao em particular em todos projetos que faço, O Model seria pasta classe, View os Layouts, e Controller pasta Activity.
 
 Obrigado.
+
+! [] (Teste_App_Empresa_Android.gif)
