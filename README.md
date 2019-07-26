@@ -29,4 +29,4 @@ Tentei fazer o maximo para terminar o teste talvez fica faltando alguma coisa, e
 
 Obrigado.
 
-! [] (Teste_App_Empresa_Android.gif)
+[] (Teste_App_Empresa_Android.gif)
